@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/**
+ * 
+ * @authors ${author} (${email})
+ * @date    2016-12-16
+ * @version $Id$
+ */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+div {
+
+}
+
+#d1 {
+	background-color: red;
+}
+
+#d2 {
+	background-color: yellow;
+}
+
+#d3 {
+	background-color: blue;
+}
+
+#d4 {
+	background-color: gray;
+}
+
+h2 {
+	background-color: green;
+}
+
+p {
+}
