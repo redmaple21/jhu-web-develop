@@ -47,12 +47,17 @@ body {
 }
 
 #main-content {
-    width: 95%;
+    width: 100%;
 }
 
+/** MAIN CONTENT **/
 #main-content section {
-    background-color: Tan;
     text-align: center;
+    padding: 10px;
+}
+
+.scontent {
+    background-color: Tan;
 }
 
 #main-content section h3 {
